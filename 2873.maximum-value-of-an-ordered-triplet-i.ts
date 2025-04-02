@@ -18,4 +18,3 @@ function maximumTripletValue(nums: number[]): number {
     return highest
 };
 // @lc code=end
-

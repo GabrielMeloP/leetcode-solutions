@@ -25,4 +25,3 @@ function lengthOfLongestSubstring(s: string): number {
     return highest
 };
 // @lc code=end
-

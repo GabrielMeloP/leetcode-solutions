@@ -50,4 +50,3 @@ class ListNode {
         this.next = (next===undefined ? null : next)
     }
 }
-

@@ -18,4 +18,3 @@ function mostPoints(questions: number[][]): number {
     return maxFromIndex[0]
 };
 // @lc code=end
-

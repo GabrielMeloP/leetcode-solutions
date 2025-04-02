@@ -37,4 +37,3 @@ function isPalindrome(s: string): boolean {
     return s.substring(0, halfSize) === getReverse(s.substring(indexEnd))
 }
 // @lc code=end
-
