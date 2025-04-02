@@ -6,6 +6,15 @@
 
 // @lc code=start
 function longestPalindrome(s: string): string {
+    const isPalindrome = (text: string): boolean => {
+        const length = text.length
+        for (let i = 0; i < length / 2; i++) {
+            if (text[i] !== text[length - 1 - i])
+                return false
+        }
+        return true
+    }
+
     if (isPalindrome(s)) return s
     const length = s.length
     let longest: string = s[0]
@@ -23,17 +32,4 @@ function longestPalindrome(s: string): string {
 
     return longest
 };
-
-function getReverse(s: string): string {
-    let reverse = ''
-    for (const l of s) reverse = l + reverse
-    return reverse
-}
-
-function isPalindrome(s: string): boolean {
-    const length = s.length
-    const halfSize = Math.ceil(length / 2)
-    const indexEnd = length % 2 === 0 ? halfSize : halfSize - 1
-    return s.substring(0, halfSize) === getReverse(s.substring(indexEnd))
-}
 // @lc code=end
