@@ -18,23 +18,12 @@
  */
 
 function mergeTwoLists(list1: ListNode | null, list2: ListNode | null): ListNode | null {
-    const nums: number[] = []
-
-    while (list1 || list2) {
-        if (list1 && (!list2 || list1.val < list2.val)) {
-            nums.push(list1.val)
-            list1 = list1.next
-        }
-        else {
-            nums.push(list2.val)
-            list2 = list2.next
-        }
-    }
-
-    let result: ListNode | null = null
-    for (let i = nums.length - 1; i >= 0; i--) {
-        result = new ListNode(nums[i], result)
-    }
-    return result
+    if (!list1) return list2
+    if (!list2) return list1
+    
+    if (list1.val < list2.val)
+        return new ListNode(list1.val, mergeTwoLists(list1.next, list2))
+    else
+        return new ListNode(list2.val, mergeTwoLists(list1, list2.next))
 };
 // @lc code=end
