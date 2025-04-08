@@ -5,22 +5,22 @@
  */
 
 // @lc code=start
-function minimumOperations(nums: number[]): number {
-    const isDistinct = (): boolean => {
-        const length = nums.length
-        for (let i = 0; i < length - 1; i++) {
-            for (let j = i + 1; j < length; j++) {
-                if (nums[i] === nums[j]) return false
+function minimumOperations(nums: number[]): number {    
+    const length = nums.length
+    let operations = 0
+
+    for (let i = 0; i < length - 1; i++) {
+        for (let j = i + 1; j < length; j++) {
+            if (nums[i] === nums[j]) {
+                operations++
+                i = operations * 3 - 1
+                break
             }
         }
-        return true
     }
-    
-    let operations = 0
-    while (!isDistinct()) {
-        nums = nums.slice(3)
-        operations++
-    }
+
     return operations
 };
 // @lc code=end
+
+console.log(minimumOperations([1,2,3,4,2,3,3,5,7]))
