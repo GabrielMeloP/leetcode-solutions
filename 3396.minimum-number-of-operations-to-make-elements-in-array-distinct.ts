@@ -10,12 +10,9 @@ function minimumOperations(nums: number[]): number {
     let operations = 0
 
     for (let i = 0; i < length - 1; i++) {
-        for (let j = i + 1; j < length; j++) {
-            if (nums[i] === nums[j]) {
-                operations++
-                i = operations * 3 - 1
-                break
-            }
+        if (nums.slice(i + 1).indexOf(nums[i]) >= 0) {
+            operations++
+            i = operations * 3 - 1
         }
     }
 
