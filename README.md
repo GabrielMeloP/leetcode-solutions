@@ -13,4 +13,5 @@ The table bellow lists the solutions that beat 100% of the answers submited usin
 |28|Find the Index of the First Occurrence in a String|[🔗](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string)|[🔗](28.find-the-index-of-the-first-occurrence-in-a-string.ts)|
 |35|Search Insert Position|[🔗](https://leetcode.com/problems/search-insert-position)|[🔗](35.search-insert-position.ts)|
 |58|Length of Last Word|[🔗](https://leetcode.com/problems/length-of-last-word)|[🔗](58.length-of-last-word.ts)|
+|66|Plus One|[🔗](https://leetcode.com/problems/plus-one)|[🔗](66.plus-one.ts)|
 |3396|Minimum Number of Operations to Make Elements in Array Distinct|[🔗](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct)|[🔗](3396.minimum-number-of-operations-to-make-elements-in-array-distinct.ts)|
