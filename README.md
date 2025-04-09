@@ -23,4 +23,5 @@ The table bellow lists the solutions that beat 100% of the answers submited usin
 |104|Maximum Depth of Binary Tree|[🔗](https://leetcode.com/problems/maximum-depth-of-binary-tree)|[🔗](0104.maximum-depth-of-binary-tree.ts)|
 |118|Pascal's Triangle|[🔗](https://leetcode.com/problems/pascals-triangle)|[🔗](0118.pascals-triangle.ts)|
 |119|Pascal's Triangle II|[🔗](https://leetcode.com/problems/pascals-triangle-ii)|[🔗](0119.pascals-triangle-ii.ts)|
+|121|Best Time to Buy and Sell Stock|[🔗](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[🔗](0121.best-time-to-buy-and-sell-stock.ts)|
 |3396|Minimum Number of Operations to Make Elements in Array Distinct|[🔗](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct)|[🔗](3396.minimum-number-of-operations-to-make-elements-in-array-distinct.ts)|
