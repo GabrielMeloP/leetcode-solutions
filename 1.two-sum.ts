@@ -6,11 +6,16 @@
 
 // @lc code=start
 function twoSum(nums: number[], target: number): number[] {
-    for (let x = 0; x < nums.length - 1; x++) {
-        for (let y = x + 1; y < nums.length; y++) {
-            if (nums[x] + nums[y] === target) return [x, y]
+    const length = nums.length
+
+    for (let x = 0; x < length - 1; x++) {
+        const match = target - nums[x]
+        
+        for (let y = x + 1; y < length; y++) {
+            if (nums[y] === match) return [x, y]
         }
     }
+
     return []
 };
 // @lc code=end
