@@ -26,4 +26,5 @@ The table bellow lists the solutions that beat 100% of the answers submited usin
 |121|Best Time to Buy and Sell Stock|[🔗](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[🔗](0121.best-time-to-buy-and-sell-stock.ts)|
 |136|Single Number|[🔗](https://leetcode.com/problems/single-number)|[🔗](0136.single-number.ts)|
 |144|Binary Tree Preorder Traversal|[🔗](https://leetcode.com/problems/binary-tree-preorder-traversal)|[🔗](0144.binary-tree-preorder-traversal.ts)|
+|145|Binary Tree Postorder Traversal|[🔗](https://leetcode.com/problems/binary-tree-postorder-traversal)|[🔗](0145.binary-tree-postorder-traversal.ts)|
 |3396|Minimum Number of Operations to Make Elements in Array Distinct|[🔗](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct)|[🔗](3396.minimum-number-of-operations-to-make-elements-in-array-distinct.ts)|
