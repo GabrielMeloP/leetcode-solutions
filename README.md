@@ -19,4 +19,5 @@ The table bellow lists the solutions that beat 100% of the answers submited usin
 |88|Merge Sorted Array|[🔗](https://leetcode.com/problems/merge-sorted-array)|[🔗](88.merge-sorted-array.ts)|
 |94|Binary Tree Inorder Traversal|[🔗](https://leetcode.com/problems/binary-tree-inorder-traversal)|[🔗](94.binary-tree-inorder-traversal.ts)|
 |100|Same Tree|[🔗](https://leetcode.com/problems/same-tree)|[🔗](100.same-tree.ts)|
+|101|Symmetric Tree|[🔗](https://leetcode.com/problems/symmetric-tree)|[🔗](101.symmetric-tree.ts)|
 |3396|Minimum Number of Operations to Make Elements in Array Distinct|[🔗](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct)|[🔗](3396.minimum-number-of-operations-to-make-elements-in-array-distinct.ts)|
