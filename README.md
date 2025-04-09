@@ -27,4 +27,5 @@ The table bellow lists the solutions that beat 100% of the answers submited usin
 |136|Single Number|[🔗](https://leetcode.com/problems/single-number)|[🔗](0136.single-number.ts)|
 |144|Binary Tree Preorder Traversal|[🔗](https://leetcode.com/problems/binary-tree-preorder-traversal)|[🔗](0144.binary-tree-preorder-traversal.ts)|
 |145|Binary Tree Postorder Traversal|[🔗](https://leetcode.com/problems/binary-tree-postorder-traversal)|[🔗](0145.binary-tree-postorder-traversal.ts)|
+|168|Excel Sheet Column Title|[🔗](https://leetcode.com/problems/excel-sheet-column-title)|[🔗](0168.excel-sheet-column-title.ts)|
 |3396|Minimum Number of Operations to Make Elements in Array Distinct|[🔗](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct)|[🔗](3396.minimum-number-of-operations-to-make-elements-in-array-distinct.ts)|
