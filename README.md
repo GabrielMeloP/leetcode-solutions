@@ -30,4 +30,5 @@ The table bellow lists the solutions that beat 100% of the answers submited usin
 |168|Excel Sheet Column Title|[🔗](https://leetcode.com/problems/excel-sheet-column-title)|[🔗](0168.excel-sheet-column-title.ts)|
 |169|Majority Element|[🔗](https://leetcode.com/problems/majority-element)|[🔗](0169.majority-element.ts)|
 |171|Excel Sheet Column Number|[🔗](https://leetcode.com/problems/excel-sheet-column-number)|[🔗](0171.excel-sheet-column-number.ts)|
+|2843|Count Symmetric Integers|[🔗](https://leetcode.com/problems/count-symmetric-integers)|[🔗](2843.count-symmetric-integers.ts)|
 |3396|Minimum Number of Operations to Make Elements in Array Distinct|[🔗](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct)|[🔗](3396.minimum-number-of-operations-to-make-elements-in-array-distinct.ts)|
