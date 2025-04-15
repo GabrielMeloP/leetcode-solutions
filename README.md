@@ -33,5 +33,6 @@ The table bellow lists the solutions that beat 100% of the answers submited usin
 |191|Number of 1 Bits|[🔗](https://leetcode.com/problems/number-of-1-bits)|[🔗](0191.number-of-1-bits.ts)|
 |202|Happy Number|[🔗](https://leetcode.com/problems/happy-number)|[🔗](0202.happy-number.ts)|
 |226|Invert Binary Tree|[🔗](https://leetcode.com/problems/invert-binary-tree)|[🔗](0226.invert-binary-tree.ts)|
+|228|Summary Ranges|[🔗](https://leetcode.com/problems/summary-ranges)|[🔗](0228.summary-ranges.ts)|
 |2843|Count Symmetric Integers|[🔗](https://leetcode.com/problems/count-symmetric-integers)|[🔗](2843.count-symmetric-integers.ts)|
 |3396|Minimum Number of Operations to Make Elements in Array Distinct|[🔗](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct)|[🔗](3396.minimum-number-of-operations-to-make-elements-in-array-distinct.ts)|
