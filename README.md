@@ -35,5 +35,6 @@ The table bellow lists the solutions that beat 100% of the answers submited usin
 |226|Invert Binary Tree|[🔗](https://leetcode.com/problems/invert-binary-tree)|[🔗](0226.invert-binary-tree.ts)|
 |228|Summary Ranges|[🔗](https://leetcode.com/problems/summary-ranges)|[🔗](0228.summary-ranges.ts)|
 |231|Power of Two|[🔗](https://leetcode.com/problems/power-of-two)|[🔗](0231.power-of-two.ts)|
+|258|Add Digits|[🔗](https://leetcode.com/problems/add-digits)|[🔗](0258.add-digits.ts)|
 |2843|Count Symmetric Integers|[🔗](https://leetcode.com/problems/count-symmetric-integers)|[🔗](2843.count-symmetric-integers.ts)|
 |3396|Minimum Number of Operations to Make Elements in Array Distinct|[🔗](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct)|[🔗](3396.minimum-number-of-operations-to-make-elements-in-array-distinct.ts)|
