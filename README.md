@@ -41,6 +41,7 @@ The table bellow lists the solutions that beat 100% of the answers submited usin
 |781|Rabbits in Forest|[🔗](https://leetcode.com/problems/rabbits-in-forest)|[🔗](0781.rabbits-in-forest.ts)|
 |1025|Divisor Game|[🔗](https://leetcode.com/problems/divisor-game)|[🔗](1025.divisor-game.ts)|
 |1137|N-th Tribonacci Number|[🔗](https://leetcode.com/problems/n-th-tribonacci-number)|[🔗](1137.n-th-tribonacci-number.ts)|
+|1668|Maximum Repeating Substring|[🔗](https://leetcode.com/problems/maximum-repeating-substring)|[🔗](1668.maximum-repeating-substring.ts)|  
 |2145|Count the Hidden Sequences|[🔗](https://leetcode.com/problems/count-the-hidden-sequences)|[🔗](2145.count-the-hidden-sequences.ts)|
 |2843|Count Symmetric Integers|[🔗](https://leetcode.com/problems/count-symmetric-integers)|[🔗](2843.count-symmetric-integers.ts)|
 |3396|Minimum Number of Operations to Make Elements in Array Distinct|[🔗](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct)|[🔗](3396.minimum-number-of-operations-to-make-elements-in-array-distinct.ts)|
