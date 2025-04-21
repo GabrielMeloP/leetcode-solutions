@@ -48,4 +48,5 @@ The table bellow lists the solutions that beat 100% of the answers submited usin
 |2145|Count the Hidden Sequences|[🔗](https://leetcode.com/problems/count-the-hidden-sequences)|[🔗](2145.count-the-hidden-sequences.ts)|
 |2843|Count Symmetric Integers|[🔗](https://leetcode.com/problems/count-symmetric-integers)|[🔗](2843.count-symmetric-integers.ts)|
 |2900|Longest Unequal Adjacent Groups Subsequence I|[🔗](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i)|[🔗](2900.longest-unequal-adjacent-groups-subsequence-i.ts)|
+|3222|Find the Winning Player in Coin Game|[🔗](https://leetcode.com/problems/find-the-winning-player-in-coin-game)|[🔗](3222.find-the-winning-player-in-coin-game.ts)|
 |3396|Minimum Number of Operations to Make Elements in Array Distinct|[🔗](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct)|[🔗](3396.minimum-number-of-operations-to-make-elements-in-array-distinct.ts)|
