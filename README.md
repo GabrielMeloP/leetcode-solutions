@@ -37,6 +37,7 @@ The table bellow lists the solutions that beat 100% of the answers submited usin
 |231|Power of Two|[🔗](https://leetcode.com/problems/power-of-two)|[🔗](0231.power-of-two.ts)|
 |258|Add Digits|[🔗](https://leetcode.com/problems/add-digits)|[🔗](0258.add-digits.ts)|
 |263|Ugly Number|[🔗](https://leetcode.com/problems/ugly-number)|[🔗](0263.ugly-number.ts)|
+|392|Is Subsequence|[🔗](https://leetcode.com/problems/is-subsequence)|[🔗](0392.is-subsequence.ts)| 
 |746|Min Cost Climbing Stairs|[🔗](https://leetcode.com/problems/min-cost-climbing-stairs)|[🔗](0746.min-cost-climbing-stairs.ts)|
 |781|Rabbits in Forest|[🔗](https://leetcode.com/problems/rabbits-in-forest)|[🔗](0781.rabbits-in-forest.ts)|
 |1025|Divisor Game|[🔗](https://leetcode.com/problems/divisor-game)|[🔗](1025.divisor-game.ts)|
