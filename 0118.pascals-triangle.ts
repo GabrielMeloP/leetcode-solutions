@@ -19,7 +19,3 @@ function generate(numRows: number): number[][] {
     return result
 };
 // @lc code=end
-
-console.log(generate(1))
-console.log(generate(2))
-console.log(generate(3))

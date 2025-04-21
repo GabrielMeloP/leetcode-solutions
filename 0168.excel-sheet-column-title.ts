@@ -40,7 +40,6 @@ function convertToTitle(columnNumber: number): string {
     let positionZero = base26.lastIndexOf('0')
     
     while (positionZero >= 0) {
-        console.log(base26)
         const newLeadingValue = parseInt(base26.slice(0, positionZero), 26) - 1
         base26 = (newLeadingValue > 0 ? newLeadingValue.toString(26) : '')
             + 'Z' + base26.slice(positionZero + 1)

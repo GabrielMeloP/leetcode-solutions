@@ -19,8 +19,3 @@ function isHappy(n: number): boolean {
     return isHappy(sum)
 };
 // @lc code=end
-
-console.log(isHappy(19))
-console.log(isHappy(2))
-console.log(isHappy(1111111))
-console.log(isHappy(4))

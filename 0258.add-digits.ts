@@ -18,5 +18,3 @@ function addDigits(num: number): number {
     return addDigits(sum)
 };
 // @lc code=end
-
-console.log(addDigits(38))

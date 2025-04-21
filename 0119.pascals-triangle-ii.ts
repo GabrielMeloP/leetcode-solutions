@@ -17,11 +17,3 @@ function getRow(rowIndex: number): number[] {
     return result
 };
 // @lc code=end
-
-console.log(getRow(1))
-console.log(getRow(2))
-console.log(getRow(3))
-console.log(getRow(4))
-console.log(getRow(5))
-console.log(getRow(6))
-console.log(getRow(7))

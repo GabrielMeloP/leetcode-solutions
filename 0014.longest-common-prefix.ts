@@ -22,8 +22,3 @@ function longestCommonPrefix(strs: string[]): string {
     return result
 };
 // @lc code=end
-
-console.log(
-    'fl',
-    longestCommonPrefix(["flower","flow","flight"])
-)

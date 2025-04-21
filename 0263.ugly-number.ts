@@ -15,5 +15,3 @@ function isUgly(n: number): boolean {
     return n === 1
 };
 // @lc code=end
-
-console.log(isUgly(0))

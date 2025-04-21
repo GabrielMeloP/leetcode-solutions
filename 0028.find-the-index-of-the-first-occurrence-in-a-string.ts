@@ -23,6 +23,3 @@ function strStr(haystack: string, needle: string): number {
     return -1
 };
 // @lc code=end
-
-console.log(strStr('sadbutsad', 'sad')) // 0
-console.log(strStr('leetcode', 'leeto')) // 0
