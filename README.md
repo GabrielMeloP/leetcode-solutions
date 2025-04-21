@@ -37,6 +37,7 @@ The table bellow lists the solutions that beat 100% of the answers submited usin
 |231|Power of Two|[🔗](https://leetcode.com/problems/power-of-two)|[🔗](0231.power-of-two.ts)|
 |258|Add Digits|[🔗](https://leetcode.com/problems/add-digits)|[🔗](0258.add-digits.ts)|
 |263|Ugly Number|[🔗](https://leetcode.com/problems/ugly-number)|[🔗](0263.ugly-number.ts)|
+|746|Min Cost Climbing Stairs|[🔗](https://leetcode.com/problems/min-cost-climbing-stairs)|[🔗](0746.min-cost-climbing-stairs.ts)|
 |781|Rabbits in Forest|[🔗](https://leetcode.com/problems/rabbits-in-forest)|[🔗](0781.rabbits-in-forest.ts)|
 |2145|Count the Hidden Sequences|[🔗](https://leetcode.com/problems/count-the-hidden-sequences)|[🔗](2145.count-the-hidden-sequences.ts)|
 |2843|Count Symmetric Integers|[🔗](https://leetcode.com/problems/count-symmetric-integers)|[🔗](2843.count-symmetric-integers.ts)|
