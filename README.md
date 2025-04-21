@@ -39,6 +39,7 @@ The table bellow lists the solutions that beat 100% of the answers submited usin
 |263|Ugly Number|[🔗](https://leetcode.com/problems/ugly-number)|[🔗](0263.ugly-number.ts)|
 |746|Min Cost Climbing Stairs|[🔗](https://leetcode.com/problems/min-cost-climbing-stairs)|[🔗](0746.min-cost-climbing-stairs.ts)|
 |781|Rabbits in Forest|[🔗](https://leetcode.com/problems/rabbits-in-forest)|[🔗](0781.rabbits-in-forest.ts)|
+|1025|Divisor Game|[🔗](https://leetcode.com/problems/divisor-game)|[🔗](1025.divisor-game.ts)|
 |2145|Count the Hidden Sequences|[🔗](https://leetcode.com/problems/count-the-hidden-sequences)|[🔗](2145.count-the-hidden-sequences.ts)|
 |2843|Count Symmetric Integers|[🔗](https://leetcode.com/problems/count-symmetric-integers)|[🔗](2843.count-symmetric-integers.ts)|
 |3396|Minimum Number of Operations to Make Elements in Array Distinct|[🔗](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct)|[🔗](3396.minimum-number-of-operations-to-make-elements-in-array-distinct.ts)|
