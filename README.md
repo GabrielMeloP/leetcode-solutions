@@ -39,6 +39,7 @@ The table bellow lists the solutions that beat 100% of the answers submited usin
 |263|Ugly Number|[🔗](https://leetcode.com/problems/ugly-number)|[🔗](0263.ugly-number.ts)|
 |292|Nim Game|[🔗](https://leetcode.com/problems/nim-game)|[🔗](0292.nim-game.ts)| 
 |338|Counting Bits|[🔗](https://leetcode.com/problems/counting-bits)|[🔗](0338.counting-bits.ts)|
+|342|Power of Four|[🔗](https://leetcode.com/problems/power-of-four)|[🔗](0342.power-of-four.ts)|
 |392|Is Subsequence|[🔗](https://leetcode.com/problems/is-subsequence)|[🔗](0392.is-subsequence.ts)| 
 |746|Min Cost Climbing Stairs|[🔗](https://leetcode.com/problems/min-cost-climbing-stairs)|[🔗](0746.min-cost-climbing-stairs.ts)|
 |781|Rabbits in Forest|[🔗](https://leetcode.com/problems/rabbits-in-forest)|[🔗](0781.rabbits-in-forest.ts)|
