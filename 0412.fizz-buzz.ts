@@ -18,5 +18,3 @@ function fizzBuzz(n: number): string[] {
     return result
 };
 // @lc code=end
-
-console.log(fizzBuzz(15))

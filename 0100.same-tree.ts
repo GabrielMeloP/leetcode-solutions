@@ -27,4 +27,3 @@ function isSameTree(p: TreeNode | null, q: TreeNode | null): boolean {
     )
 };
 // @lc code=end
-

@@ -24,4 +24,3 @@ function maxDepth(root: TreeNode | null): number {
     return 1 + Math.max(maxDepth(root.left), maxDepth(root.right))
 };
 // @lc code=end
-
