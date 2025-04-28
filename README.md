@@ -41,6 +41,7 @@ The table bellow lists the solutions that beat 100% of the answers submited usin
 |338|Counting Bits|[🔗](https://leetcode.com/problems/counting-bits)|[🔗](0338.counting-bits.ts)|
 |342|Power of Four|[🔗](https://leetcode.com/problems/power-of-four)|[🔗](0342.power-of-four.ts)|
 |392|Is Subsequence|[🔗](https://leetcode.com/problems/is-subsequence)|[🔗](0392.is-subsequence.ts)|
+|412|Fizz Buzz|[🔗](https://leetcode.com/problems/fizz-buzz)|[🔗](0412.fizz-buzz.ts)|
 |504|Base 7|[🔗](https://leetcode.com/problems/base-7)|[🔗](0504.base-7.ts)|
 |709|To Lower Case|[🔗](https://leetcode.com/problems/to-lower-case)|[🔗](0709.to-lower-case.ts)|
 |746|Min Cost Climbing Stairs|[🔗](https://leetcode.com/problems/min-cost-climbing-stairs)|[🔗](0746.min-cost-climbing-stairs.ts)|
