@@ -41,6 +41,7 @@ The table bellow lists the solutions that beat 100% of the answers submited usin
 |338|Counting Bits|[🔗](https://leetcode.com/problems/counting-bits)|[🔗](0338.counting-bits.ts)|
 |342|Power of Four|[🔗](https://leetcode.com/problems/power-of-four)|[🔗](0342.power-of-four.ts)|
 |344|Reverse String|[🔗](https://leetcode.com/problems/reverse-string)|[🔗](0344.reverse-string.ts)|
+|367|Valid Perfect Square|[🔗](https://leetcode.com/problems/valid-perfect-square)|[🔗](0367.valid-perfect-square.ts)|
 |392|Is Subsequence|[🔗](https://leetcode.com/problems/is-subsequence)|[🔗](0392.is-subsequence.ts)|
 |412|Fizz Buzz|[🔗](https://leetcode.com/problems/fizz-buzz)|[🔗](0412.fizz-buzz.ts)|
 |504|Base 7|[🔗](https://leetcode.com/problems/base-7)|[🔗](0504.base-7.ts)|
