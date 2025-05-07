@@ -47,6 +47,7 @@ The table bellow lists the solutions that beat 100% of the answers submited usin
 |504|Base 7|[🔗](https://leetcode.com/problems/base-7)|[🔗](0504.base-7.ts)|
 |709|To Lower Case|[🔗](https://leetcode.com/problems/to-lower-case)|[🔗](0709.to-lower-case.ts)|
 |746|Min Cost Climbing Stairs|[🔗](https://leetcode.com/problems/min-cost-climbing-stairs)|[🔗](0746.min-cost-climbing-stairs.ts)|
+|771|Jewels and Stones|[🔗](https://leetcode.com/problems/jewels-and-stones)|[🔗](0771.jewels-and-stones.ts)|
 |781|Rabbits in Forest|[🔗](https://leetcode.com/problems/rabbits-in-forest)|[🔗](0781.rabbits-in-forest.ts)|
 |838|Push Dominoes|[🔗](https://leetcode.com/problems/push-dominoes)|[🔗](0838.push-dominoes.ts)|
 |1025|Divisor Game|[🔗](https://leetcode.com/problems/divisor-game)|[🔗](1025.divisor-game.ts)|
