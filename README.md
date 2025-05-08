@@ -64,5 +64,6 @@ The table bellow lists the solutions that beat 100% of the answers submited usin
 |3396|Minimum Number of Operations to Make Elements in Array Distinct|[🔗](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct)|[🔗](3396.minimum-number-of-operations-to-make-elements-in-array-distinct.ts)|
 |3417|Zigzag Grid Traversal with Skip|[🔗](https://leetcode.com/problems/zigzag-grid-traversal-with-skip)|[🔗](3417.zigzag-grid-traversal-with-skip.ts)|
 |3452|Sum of Good Numbers|[🔗](https://leetcode.com/problems/sum-of-good-numbers)|[🔗](3452.sum-of-good-numbers.ts)|
+|3492|Maximum Containers on a Ship|[🔗](https://leetcode.com/problems/maximum-containers-on-a-ship)|[🔗](3492.maximum-containers-on-a-ship.ts)|
 |3512|Minimum Operations to Make Array Sum Divisible by K|[🔗](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k)|[🔗](3512.minimum-operations-to-make-array-sum-divisible-by-k.ts)|
 |3516|Find Closest Person|[🔗](https://leetcode.com/problems/find-closest-person)|[🔗](3516.find-closest-person.ts)|
