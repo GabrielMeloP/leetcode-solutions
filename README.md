@@ -60,6 +60,7 @@ The table bellow lists the solutions that beat 100% of the answers submited usin
 |2441|Largest Positive Integer That Exists With Its Negative|[🔗](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative)|[🔗](2441.largest-positive-integer-that-exists-with-its-negative.ts)|
 |2843|Count Symmetric Integers|[🔗](https://leetcode.com/problems/count-symmetric-integers)|[🔗](2843.count-symmetric-integers.ts)|
 |2900|Longest Unequal Adjacent Groups Subsequence I|[🔗](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i)|[🔗](2900.longest-unequal-adjacent-groups-subsequence-i.ts)|
+|3033|Modify the Matrix|[🔗](https://leetcode.com/problems/modify-the-matrix)|[🔗](3033.modify-the-matrix.ts)|
 |3222|Find the Winning Player in Coin Game|[🔗](https://leetcode.com/problems/find-the-winning-player-in-coin-game)|[🔗](3222.find-the-winning-player-in-coin-game.ts)|
 |3289|The Two Sneaky Numbers of Digitville|[🔗](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville)|[🔗](3289.the-two-sneaky-numbers-of-digitville.ts)|
 |3396|Minimum Number of Operations to Make Elements in Array Distinct|[🔗](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct)|[🔗](3396.minimum-number-of-operations-to-make-elements-in-array-distinct.ts)|
