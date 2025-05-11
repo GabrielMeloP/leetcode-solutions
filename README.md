@@ -54,6 +54,7 @@ The table bellow lists the solutions that beat 100% of the answers submited usin
 |1137|N-th Tribonacci Number|[🔗](https://leetcode.com/problems/n-th-tribonacci-number)|[🔗](1137.n-th-tribonacci-number.ts)|
 |1295|Find Numbers with Even Number of Digits|[🔗](https://leetcode.com/problems/find-numbers-with-even-number-of-digits)|[🔗](1295.find-numbers-with-even-number-of-digits.ts)|
 |1399|Count Largest Group|[🔗](https://leetcode.com/problems/count-largest-group)|[🔗](1399.count-largest-group.ts)|
+|1550|Three Consecutive Odds|[🔗](https://leetcode.com/problems/three-consecutive-odds)|[🔗](1550.three-consecutive-odds.ts)|
 |1668|Maximum Repeating Substring|[🔗](https://leetcode.com/problems/maximum-repeating-substring)|[🔗](1668.maximum-repeating-substring.ts)|  
 |1920|Build Array from Permutation|[🔗](https://leetcode.com/problems/build-array-from-permutation)|[🔗](1920.build-array-from-permutation.ts)|
 |2145|Count the Hidden Sequences|[🔗](https://leetcode.com/problems/count-the-hidden-sequences)|[🔗](2145.count-the-hidden-sequences.ts)|
