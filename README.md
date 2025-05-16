@@ -57,6 +57,7 @@ The table bellow lists the solutions that beat 100% of the answers submited usin
 |1550|Three Consecutive Odds|[🔗](https://leetcode.com/problems/three-consecutive-odds)|[🔗](1550.three-consecutive-odds.ts)|
 |1668|Maximum Repeating Substring|[🔗](https://leetcode.com/problems/maximum-repeating-substring)|[🔗](1668.maximum-repeating-substring.ts)|  
 |1920|Build Array from Permutation|[🔗](https://leetcode.com/problems/build-array-from-permutation)|[🔗](1920.build-array-from-permutation.ts)|
+|2129|Capitalize the Title|[🔗](https://leetcode.com/problems/capitalize-the-title)|[🔗](2129.capitalize-the-title.ts)|
 |2145|Count the Hidden Sequences|[🔗](https://leetcode.com/problems/count-the-hidden-sequences)|[🔗](2145.count-the-hidden-sequences.ts)|
 |2441|Largest Positive Integer That Exists With Its Negative|[🔗](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative)|[🔗](2441.largest-positive-integer-that-exists-with-its-negative.ts)|
 |2843|Count Symmetric Integers|[🔗](https://leetcode.com/problems/count-symmetric-integers)|[🔗](2843.count-symmetric-integers.ts)|
