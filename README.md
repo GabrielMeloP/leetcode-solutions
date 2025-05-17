@@ -15,6 +15,7 @@ The table bellow lists the solutions that beat 100% of the answers submited usin
 |58|Length of Last Word|[🔗](https://leetcode.com/problems/length-of-last-word)|[🔗](0058.length-of-last-word.ts)|
 |66|Plus One|[🔗](https://leetcode.com/problems/plus-one)|[🔗](0066.plus-one.ts)|
 |70|Climbing Stairs|[🔗](https://leetcode.com/problems/climbing-stairs)|[🔗](0070.climbing-stairs.ts)|
+|75|Sort Colors|[🔗](https://leetcode.com/problems/sort-colors)|[🔗](0075.sort-colors.ts)|
 |83|Remove Duplicates from Sorted List|[🔗](https://leetcode.com/problems/remove-duplicates-from-sorted-list)|[🔗](0083.remove-duplicates-from-sorted-list.ts)|
 |88|Merge Sorted Array|[🔗](https://leetcode.com/problems/merge-sorted-array)|[🔗](0088.merge-sorted-array.ts)|
 |94|Binary Tree Inorder Traversal|[🔗](https://leetcode.com/problems/binary-tree-inorder-traversal)|[🔗](0094.binary-tree-inorder-traversal.ts)|
