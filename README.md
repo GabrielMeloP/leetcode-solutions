@@ -64,6 +64,7 @@ The table bellow lists the solutions that beat 100% of the answers submited usin
 |2678|Number of Senior Citizens|[🔗](https://leetcode.com/problems/number-of-senior-citizens)|[🔗](2678.number-of-senior-citizens.ts)|
 |2843|Count Symmetric Integers|[🔗](https://leetcode.com/problems/count-symmetric-integers)|[🔗](2843.count-symmetric-integers.ts)|
 |2900|Longest Unequal Adjacent Groups Subsequence I|[🔗](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i)|[🔗](2900.longest-unequal-adjacent-groups-subsequence-i.ts)|
+|3024|Type of Triangle|[🔗](https://leetcode.com/problems/type-of-triangle)|[🔗](3024.type-of-triangle.ts)|
 |3033|Modify the Matrix|[🔗](https://leetcode.com/problems/modify-the-matrix)|[🔗](3033.modify-the-matrix.ts)|
 |3110|Score of a String|[🔗](https://leetcode.com/problems/score-of-a-string)|[🔗](3110.score-of-a-string.ts)|
 |3222|Find the Winning Player in Coin Game|[🔗](https://leetcode.com/problems/find-the-winning-player-in-coin-game)|[🔗](3222.find-the-winning-player-in-coin-game.ts)|
