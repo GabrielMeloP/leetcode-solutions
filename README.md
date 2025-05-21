@@ -52,6 +52,7 @@ The table bellow lists the solutions that beat 100% of the answers submited usin
 |771|Jewels and Stones|[🔗](https://leetcode.com/problems/jewels-and-stones)|[🔗](0771.jewels-and-stones.ts)|
 |781|Rabbits in Forest|[🔗](https://leetcode.com/problems/rabbits-in-forest)|[🔗](0781.rabbits-in-forest.ts)|
 |838|Push Dominoes|[🔗](https://leetcode.com/problems/push-dominoes)|[🔗](0838.push-dominoes.ts)|
+|961|N-Repeated Element in Size 2N Array|[🔗](https://leetcode.com/problems/n-repeated-element-in-size-2n-array)|[🔗](0961.n-repeated-element-in-size-2-n-array.ts)|
 |1025|Divisor Game|[🔗](https://leetcode.com/problems/divisor-game)|[🔗](1025.divisor-game.ts)|
 |1137|N-th Tribonacci Number|[🔗](https://leetcode.com/problems/n-th-tribonacci-number)|[🔗](1137.n-th-tribonacci-number.ts)|
 |1295|Find Numbers with Even Number of Digits|[🔗](https://leetcode.com/problems/find-numbers-with-even-number-of-digits)|[🔗](1295.find-numbers-with-even-number-of-digits.ts)|
