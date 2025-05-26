@@ -47,6 +47,7 @@ The table bellow lists the solutions that beat 100% of the answers submited usin
 |392|Is Subsequence|[🔗](https://leetcode.com/problems/is-subsequence)|[🔗](0392.is-subsequence.ts)|
 |412|Fizz Buzz|[🔗](https://leetcode.com/problems/fizz-buzz)|[🔗](0412.fizz-buzz.ts)|
 |504|Base 7|[🔗](https://leetcode.com/problems/base-7)|[🔗](0504.base-7.ts)|
+|682|Baseball Game|[🔗](https://leetcode.com/problems/baseball-game)|[🔗](0682.baseball-game.ts)|
 |709|To Lower Case|[🔗](https://leetcode.com/problems/to-lower-case)|[🔗](0709.to-lower-case.ts)|
 |746|Min Cost Climbing Stairs|[🔗](https://leetcode.com/problems/min-cost-climbing-stairs)|[🔗](0746.min-cost-climbing-stairs.ts)|
 |771|Jewels and Stones|[🔗](https://leetcode.com/problems/jewels-and-stones)|[🔗](0771.jewels-and-stones.ts)|
