@@ -70,6 +70,7 @@ The table bellow lists the solutions that beat 100% of the answers submited usin
 |2582|Pass the Pillow|[🔗](https://leetcode.com/problems/pass-the-pillow)|[🔗](2582.pass-the-pillow.ts)|
 |2678|Number of Senior Citizens|[🔗](https://leetcode.com/problems/number-of-senior-citizens)|[🔗](2678.number-of-senior-citizens.ts)|
 |2843|Count Symmetric Integers|[🔗](https://leetcode.com/problems/count-symmetric-integers)|[🔗](2843.count-symmetric-integers.ts)|
+|2894|Divisible and Non-divisible Sums Difference|[🔗](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference)|[🔗](2894.divisible-and-non-divisible-sums-difference.ts)|
 |2900|Longest Unequal Adjacent Groups Subsequence I|[🔗](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i)|[🔗](2900.longest-unequal-adjacent-groups-subsequence-i.ts)|
 |2942|Find Words Containing Character|[🔗](https://leetcode.com/problems/find-words-containing-character)|[🔗](2942.find-words-containing-character.ts)|
 |3024|Type of Triangle|[🔗](https://leetcode.com/problems/type-of-triangle)|[🔗](3024.type-of-triangle.ts)|
