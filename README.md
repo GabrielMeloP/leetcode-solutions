@@ -39,7 +39,7 @@ The table bellow lists the solutions that beat 100% of the answers submited usin
 |231|Power of Two|[🔗](https://leetcode.com/problems/power-of-two)|[🔗](0231.power-of-two.ts)|
 |258|Add Digits|[🔗](https://leetcode.com/problems/add-digits)|[🔗](0258.add-digits.ts)|
 |263|Ugly Number|[🔗](https://leetcode.com/problems/ugly-number)|[🔗](0263.ugly-number.ts)|
-|292|Nim Game|[🔗](https://leetcode.com/problems/nim-game)|[🔗](0292.nim-game.ts)| 
+|292|Nim Game|[🔗](https://leetcode.com/problems/nim-game)|[🔗](0292.nim-game.ts)|
 |338|Counting Bits|[🔗](https://leetcode.com/problems/counting-bits)|[🔗](0338.counting-bits.ts)|
 |342|Power of Four|[🔗](https://leetcode.com/problems/power-of-four)|[🔗](0342.power-of-four.ts)|
 |344|Reverse String|[🔗](https://leetcode.com/problems/reverse-string)|[🔗](0344.reverse-string.ts)|
@@ -60,7 +60,8 @@ The table bellow lists the solutions that beat 100% of the answers submited usin
 |1295|Find Numbers with Even Number of Digits|[🔗](https://leetcode.com/problems/find-numbers-with-even-number-of-digits)|[🔗](1295.find-numbers-with-even-number-of-digits.ts)|
 |1399|Count Largest Group|[🔗](https://leetcode.com/problems/count-largest-group)|[🔗](1399.count-largest-group.ts)|
 |1550|Three Consecutive Odds|[🔗](https://leetcode.com/problems/three-consecutive-odds)|[🔗](1550.three-consecutive-odds.ts)|
-|1668|Maximum Repeating Substring|[🔗](https://leetcode.com/problems/maximum-repeating-substring)|[🔗](1668.maximum-repeating-substring.ts)|  
+|1668|Maximum Repeating Substring|[🔗](https://leetcode.com/problems/maximum-repeating-substring)|[🔗](1668.maximum-repeating-substring.ts)|
+|1742|Maximum Number of Balls in a Box|[🔗](https://leetcode.com/problems/maximum-number-of-balls-in-a-box)|[🔗](1742.maximum-number-of-balls-in-a-box.ts)|
 |1920|Build Array from Permutation|[🔗](https://leetcode.com/problems/build-array-from-permutation)|[🔗](1920.build-array-from-permutation.ts)|
 |2032|Two Out of Three|[🔗](https://leetcode.com/problems/two-out-of-three)|[🔗](2032.two-out-of-three.ts)|
 |2129|Capitalize the Title|[🔗](https://leetcode.com/problems/capitalize-the-title)|[🔗](2129.capitalize-the-title.ts)|
