@@ -62,6 +62,7 @@ The table bellow lists the solutions that beat 100% of the answers submited usin
 |1550|Three Consecutive Odds|[🔗](https://leetcode.com/problems/three-consecutive-odds)|[🔗](1550.three-consecutive-odds.ts)|
 |1668|Maximum Repeating Substring|[🔗](https://leetcode.com/problems/maximum-repeating-substring)|[🔗](1668.maximum-repeating-substring.ts)|
 |1742|Maximum Number of Balls in a Box|[🔗](https://leetcode.com/problems/maximum-number-of-balls-in-a-box)|[🔗](1742.maximum-number-of-balls-in-a-box.ts)|
+|1748|Sum of Unique Elements|[🔗](https://leetcode.com/problems/sum-of-unique-elements)|[🔗](1748.sum-of-unique-elements.ts)|
 |1920|Build Array from Permutation|[🔗](https://leetcode.com/problems/build-array-from-permutation)|[🔗](1920.build-array-from-permutation.ts)|
 |2032|Two Out of Three|[🔗](https://leetcode.com/problems/two-out-of-three)|[🔗](2032.two-out-of-three.ts)|
 |2129|Capitalize the Title|[🔗](https://leetcode.com/problems/capitalize-the-title)|[🔗](2129.capitalize-the-title.ts)|
