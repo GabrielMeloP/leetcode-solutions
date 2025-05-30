@@ -64,6 +64,7 @@ The table bellow lists the solutions that beat 100% of the answers submited usin
 |1742|Maximum Number of Balls in a Box|[🔗](https://leetcode.com/problems/maximum-number-of-balls-in-a-box)|[🔗](1742.maximum-number-of-balls-in-a-box.ts)|
 |1748|Sum of Unique Elements|[🔗](https://leetcode.com/problems/sum-of-unique-elements)|[🔗](1748.sum-of-unique-elements.ts)|
 |1920|Build Array from Permutation|[🔗](https://leetcode.com/problems/build-array-from-permutation)|[🔗](1920.build-array-from-permutation.ts)|
+|1925|Count Square Sum Triples|[🔗](https://leetcode.com/problems/count-square-sum-triples)|[🔗](1925.count-square-sum-triples.ts)|
 |2032|Two Out of Three|[🔗](https://leetcode.com/problems/two-out-of-three)|[🔗](2032.two-out-of-three.ts)|
 |2129|Capitalize the Title|[🔗](https://leetcode.com/problems/capitalize-the-title)|[🔗](2129.capitalize-the-title.ts)|
 |2145|Count the Hidden Sequences|[🔗](https://leetcode.com/problems/count-the-hidden-sequences)|[🔗](2145.count-the-hidden-sequences.ts)|
