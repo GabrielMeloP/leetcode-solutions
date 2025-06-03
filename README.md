@@ -67,6 +67,7 @@ The table bellow lists the solutions that beat 100% of the answers submited usin
 |1920|Build Array from Permutation|[🔗](https://leetcode.com/problems/build-array-from-permutation)|[🔗](1920.build-array-from-permutation.ts)|
 |1925|Count Square Sum Triples|[🔗](https://leetcode.com/problems/count-square-sum-triples)|[🔗](1925.count-square-sum-triples.ts)|
 |2032|Two Out of Three|[🔗](https://leetcode.com/problems/two-out-of-three)|[🔗](2032.two-out-of-three.ts)|
+|2042|Check if Numbers Are Ascending in a Sentence|[🔗](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence)|[🔗](2042.check-if-numbers-are-ascending-in-a-sentence.ts)|
 |2129|Capitalize the Title|[🔗](https://leetcode.com/problems/capitalize-the-title)|[🔗](2129.capitalize-the-title.ts)|
 |2145|Count the Hidden Sequences|[🔗](https://leetcode.com/problems/count-the-hidden-sequences)|[🔗](2145.count-the-hidden-sequences.ts)|
 |2293|Min Max Game|[🔗](https://leetcode.com/problems/min-max-game)|[🔗](2293.min-max-game.ts)|
