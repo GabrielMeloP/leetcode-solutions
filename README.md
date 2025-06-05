@@ -73,6 +73,7 @@ The table bellow lists the solutions that beat 100% of the answers submited usin
 |2145|Count the Hidden Sequences|[🔗](https://leetcode.com/problems/count-the-hidden-sequences)|[🔗](2145.count-the-hidden-sequences.ts)|
 |2293|Min Max Game|[🔗](https://leetcode.com/problems/min-max-game)|[🔗](2293.min-max-game.ts)|
 |2441|Largest Positive Integer That Exists With Its Negative|[🔗](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative)|[🔗](2441.largest-positive-integer-that-exists-with-its-negative.ts)|
+|2535|Difference Between Element Sum and Digit Sum of an Array|[🔗](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array)|[🔗](2535.difference-between-element-sum-and-digit-sum-of-an-array.ts)|
 |2582|Pass the Pillow|[🔗](https://leetcode.com/problems/pass-the-pillow)|[🔗](2582.pass-the-pillow.ts)|
 |2678|Number of Senior Citizens|[🔗](https://leetcode.com/problems/number-of-senior-citizens)|[🔗](2678.number-of-senior-citizens.ts)|
 |2843|Count Symmetric Integers|[🔗](https://leetcode.com/problems/count-symmetric-integers)|[🔗](2843.count-symmetric-integers.ts)|
