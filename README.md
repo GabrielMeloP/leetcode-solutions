@@ -85,6 +85,7 @@ The table bellow lists the solutions that beat 100% of the answers submited usin
 |3110|Score of a String|[🔗](https://leetcode.com/problems/score-of-a-string)|[🔗](3110.score-of-a-string.ts)|
 |3222|Find the Winning Player in Coin Game|[🔗](https://leetcode.com/problems/find-the-winning-player-in-coin-game)|[🔗](3222.find-the-winning-player-in-coin-game.ts)|
 |3289|The Two Sneaky Numbers of Digitville|[🔗](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville)|[🔗](3289.the-two-sneaky-numbers-of-digitville.ts)|
+|3386|Button with Longest Push Time|[🔗](https://leetcode.com/problems/button-with-longest-push-time)|[🔗](3386.button-with-longest-push-time.ts)|
 |3396|Minimum Number of Operations to Make Elements in Array Distinct|[🔗](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct)|[🔗](3396.minimum-number-of-operations-to-make-elements-in-array-distinct.ts)|
 |3417|Zigzag Grid Traversal with Skip|[🔗](https://leetcode.com/problems/zigzag-grid-traversal-with-skip)|[🔗](3417.zigzag-grid-traversal-with-skip.ts)|
 |3452|Sum of Good Numbers|[🔗](https://leetcode.com/problems/sum-of-good-numbers)|[🔗](3452.sum-of-good-numbers.ts)|
